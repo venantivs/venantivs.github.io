@@ -47,8 +47,8 @@ bio = "One segfault a day keeps the depression away"           # Your bio
 avatar = "img/avatar.webp"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/venantivs" },
-    { name = "LinkedIn", icon = "github", url = "https://www.linkedin.com/in/jos%C3%A9-ven%C3%A2ncio-261780232" },
-    { name = "Discord", icon = "github", url = "https://discord.com/users/venantivs" },
+    { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/jos%C3%A9-ven%C3%A2ncio-261780232" },
+    { name = "Discord", icon = "discord", url = "https://discord.com/users/venantivs" },
     { name = "Email", icon = "email", url = "mailto:junior.venncio@gmail.com" },
 ]
 
