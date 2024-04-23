@@ -43,7 +43,7 @@ anchors = "on"
 
 name = "José Venâncio"                # Your name
 id = "venantivs"                      # Your id / username / handle
-bio = "One segfault a day keeps the depression away"           # Your bio
+bio = "Initium sapientiæ timor Domini"# Your bio
 avatar = "img/avatar.webp"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/venantivs" },
