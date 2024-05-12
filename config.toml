@@ -6,7 +6,7 @@
 #=========================================================================================
 
 base_url = "https://venantivs.github.io"      # Domain name of your website
-title = "venantivs"
+title = "home | venantivs"
 description = "Mainly programming and building stuff"
 default_language = "pt-BR"
 theme = "serene"
@@ -72,7 +72,7 @@ nav_wrapper_right = "} ;"
 nav_wrapper_separator = ","
 
 display_id = true                     # Whether to display your id on homepage
-blog_categorized = true               # Whether to categorize blog posts
+blog_categorized = false              # Whether to categorize blog posts
 blur_effect = true                    # Whether to turn on blur effect on navigation bar
 back_to_top = true                    # Whether to show back-to-top button on post pages
 
