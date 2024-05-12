@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://venantivs.github.io"      # Domain name of your website
+base_url = "https://venantivs.com"      # Domain name of your website
 title = "home | venantivs"
 description = "Mainly programming and building stuff"
 default_language = "pt-BR"
