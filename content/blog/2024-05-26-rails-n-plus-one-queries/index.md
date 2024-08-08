@@ -1,6 +1,6 @@
 +++
 title = "Rails: Queries N+1, suas consequências e como resolvê-las"
-date = 2024-08-07
+date = 2024-08-08
 draft = false
 
 [taxonomies]
