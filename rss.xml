@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>home | venantivs</title>
+      <link>https://venantivs.com</link>
+      <description>Mainly programming and building stuff</description>
+      <generator>Zola</generator>
+      <language>pt-BR</language>
+      <atom:link href="https://venantivs.com/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Rails: Queries N+1, suas consequências e como resolvê-las</title>
+          <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://venantivs.com/blog/rails-n-plus-one-queries/</link>
+          <guid>https://venantivs.com/blog/rails-n-plus-one-queries/</guid>
+          <description xml:base="https://venantivs.com/blog/rails-n-plus-one-queries/">&lt;p&gt;Queries N+1 são provavelmente o maior responsável por perda de desempenho em aplicações Rails, veja neste post como evitar e resolvê-las.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Uma &quot;pegadinha&quot; nas transactions do Rails</title>
+          <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://venantivs.com/blog/rails-ar-dirty-transaction/</link>
+          <guid>https://venantivs.com/blog/rails-ar-dirty-transaction/</guid>
+          <description xml:base="https://venantivs.com/blog/rails-ar-dirty-transaction/">&lt;p&gt;Cuidado ao utilizar callbacks com transactions no Rails&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Utilizando JSONB com Rails</title>
+          <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://venantivs.com/blog/rails-postgres-jsonb/</link>
+          <guid>https://venantivs.com/blog/rails-postgres-jsonb/</guid>
+          <description xml:base="https://venantivs.com/blog/rails-postgres-jsonb/">&lt;p&gt;Veja como utilizar, indexar, e evitar queries N+1 com os campos do tipo JSONB no Ruby on Rails.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
